@@ -1,0 +1,706 @@
+{
+  "Bṛhadratha Dynasty":[
+    {
+      "ruler":"Somapī or Mārjālīya",
+      "duration": 58,
+      "begin":3162,
+      "end": 3104
+    },
+    {
+      "ruler":"Śrustaśravā",
+      "duration": 64,
+      "begin":3104,
+      "end": 3040
+    },
+    {
+      "ruler":"Apratipin or Ayutāyu",
+      "duration": 36,
+      "begin":3040,
+      "end": 3004
+    },
+    {
+      "ruler":"Nirāmitra",
+      "duration": 40,
+      "begin":3004,
+      "end": 2964
+    },
+    {
+      "ruler":"Sukritta",
+      "duration": 56,
+      "begin":2964,
+      "end": 2908
+    },
+    {
+      "ruler":"Bṛhatkarman",
+      "duration": 23,
+      "begin":2908,
+      "end": 2885
+    },
+    {
+      "ruler":"Senajit",
+      "duration": 50,
+      "begin":2908,
+      "end": 2885
+    },
+    {
+      "ruler":"Śrutañjaya",
+      "duration": 40,
+      "begin":2885,
+      "end": 2835
+    },
+    {
+      "ruler":"Mahābala or Vibhu",
+      "duration": 35,
+      "begin":2835,
+      "end": 2795
+    },
+    {
+      "ruler":"Śuchi",
+      "duration": 58,
+      "begin":2795,
+      "end": 2760
+    },
+    {
+      "ruler":"Kśema",
+      "duration": 28,
+      "begin":2760,
+      "end": 2702
+    },
+    {
+      "ruler":"Anuvrata",
+      "duration": 64,
+      "begin":2702,
+      "end": 2674
+    },
+    {
+      "ruler":"Dharmanetra",
+      "duration": 35,
+      "begin":2674,
+      "end": 2610
+    },
+    {
+      "ruler":"Nirvṛti",
+      "duration": 58,
+      "begin":2610,
+      "end": 2575
+    },
+    {
+      "ruler":"Suvrata",
+      "duration": 38,
+      "begin":2575,
+      "end": 2517
+    },
+    {
+      "ruler":"Dṛdhasena",
+      "duration": 58,
+      "begin":2517,
+      "end": 2479
+    },
+    {
+      "ruler":"Sumati",
+      "duration": 33,
+      "begin":2479,
+      "end": 2421
+    },
+    {
+      "ruler":"Suchala",
+      "duration": 22,
+      "begin":2421,
+      "end": 2388
+    },
+    {
+      "ruler":"Sunetra",
+      "duration": 40,
+      "begin":2388,
+      "end": 2366
+    },
+    {
+      "ruler":"Satyajit",
+      "duration": 79,
+      "begin":2326,
+      "end": 2247
+    },
+    {
+      "ruler":"Vīrajit",
+      "duration": 35,
+      "begin":2247,
+      "end": 2212
+    },
+    {
+      "ruler":"Ripuñjaya",
+      "duration": 50,
+      "begin":2212,
+      "end": 2162
+    }
+  ],
+  "Pradyota Dynasty":[
+    {
+      "ruler":"Pradyota",
+      "duration": 23,
+      "begin":2162,
+      "end": 2139
+    },
+    {
+      "ruler":"Pālaka",
+      "duration": 24,
+      "begin":2139,
+      "end": 2115
+    },
+    {
+      "ruler":"Viśākhayupa",
+      "duration": 50,
+      "begin":2115,
+      "end": 2065
+    },
+    {
+      "ruler":"Janaka",
+      "duration": 21,
+      "begin":2065,
+      "end": 2044
+    },
+    {
+      "ruler":"Nandivardhana",
+      "duration": 20,
+      "begin":2044,
+      "end": 2024
+    }
+  ],
+  "Śiśunāga Dynasty":[
+    {
+      "ruler":"Śiśunāga",
+      "duration": 40,
+      "begin":2024,
+      "end": 1984
+    },
+    {
+      "ruler":"Kākavarṇa",
+      "duration": 36,
+      "begin":1984,
+      "end": 1948
+    },
+    {
+      "ruler":"Kśemadharman",
+      "duration": 26,
+      "begin":1948,
+      "end": 1922
+    },
+    {
+      "ruler":"Kśatraujas",
+      "duration": 40,
+      "begin":1922,
+      "end": 1882
+    },
+    {
+      "ruler":"Vidhisāra",
+      "duration": 38,
+      "begin":1882,
+      "end": 1844
+    },
+    {
+      "ruler":"Ajātaśatru",
+      "duration": 27,
+      "begin":1844,
+      "end": 1817
+    },
+    {
+      "ruler":"̣Darśakaor Darbhaka",
+      "duration": 35,
+      "begin":1817,
+      "end": 1782
+    },
+    {
+      "ruler":"Udāsin or Udayāsva or Ajaya",
+      "duration": 33,
+      "begin":1782,
+      "end": 1749
+    },
+    {
+      "ruler":"Nandivardhana",
+      "duration": 42,
+      "begin":1749,
+      "end": 1707
+    },
+    {
+      "ruler":"Mahānandin",
+      "duration": 43,
+      "begin":1707,
+      "end": 1664
+    }
+  ],
+  "Nanda Dynasty":[
+    {
+      "ruler":"Mahāpadma Nanda or Ugrasena",
+      "duration": 54,
+      "begin":1662,
+      "end": 1608
+    },
+    {
+      "ruler":"Eight sons of Nanda",
+      "duration": 12,
+      "begin":1608,
+      "end": 1596
+    }
+  ],
+  "Maurya Dynasty":[
+    {
+      "ruler":"Chandragupta",
+      "duration": 24,
+      "begin":1596,
+      "end": 1572
+    },
+    {
+      "ruler":"Bindusāra or Bhadrasāra",
+      "duration": 25,
+      "begin":1572,
+      "end": 1547
+    },
+    {
+      "ruler":"Aśoka or Aśokavardhana",
+      "duration": 36,
+      "begin":1547,
+      "end": 1511
+    },
+    {
+      "ruler":"Suyaśa",
+      "duration": 8,
+      "begin":1511,
+      "end": 1503
+    },
+    {
+      "ruler":"̄Daśaratha",
+      "duration": 8,
+      "begin":1511,
+      "end": 1503
+    },
+    {
+      "ruler":"Saṁyuta or Saṅgata",
+      "duration": 9,
+      "begin":1503,
+      "end": 1494
+    },
+    {
+      "ruler":"̣Śāliśūka",
+      "duration": 13,
+      "begin":1494,
+      "end": 1481
+    },
+    {
+      "ruler":"Soma Śarma",
+      "duration": 7,
+      "begin":1481,
+      "end": 1474
+    },
+    {
+      "ruler":"Śatadhanvā",
+      "duration": 8,
+      "begin":1474,
+      "end": 1466
+    },
+    {
+      "ruler":"Bṛhadratha",
+      "duration": 7,
+      "begin":1466,
+      "end": 1459
+    }
+  ],
+  "Śuṅga Dynasty":[
+    {
+      "ruler":"Puṣyamitra",
+      "duration": 36,
+      "begin":1459,
+      "end": 1423
+    },
+    {
+      "ruler":"Agnimitra",
+      "duration": 8,
+      "begin":1423,
+      "end": 1415
+    },
+    {
+      "ruler":"Vasujyeṣṭha or Sujyeṣṭha",
+      "duration": 7,
+      "begin":1423,
+      "end": 1416
+    },
+    {
+      "ruler":"Vasumitráa",
+      "duration": 10,
+      "begin":1415,
+      "end": 1405
+    },
+    {
+      "ruler":"̄Bhadraka",
+      "duration": 2,
+      "begin":1405,
+      "end": 1403
+    },
+    {
+      "ruler":"Pulindaka",
+      "duration": 3,
+      "begin":1403,
+      "end": 1400
+    },
+    {
+      "ruler":"̣Ghoṣāvasu",
+      "duration": 3,
+      "begin":1400,
+      "end": 1397
+    },
+    {
+      "ruler":"Vajramitra",
+      "duration": 9,
+      "begin":1397,
+      "end": 1388
+    },
+    {
+      "ruler":"̄Bhāgavata",
+      "duration": 32,
+      "begin":1388,
+      "end": 1356
+    },
+    {
+      "ruler":"Devabhūti",
+      "duration": 10,
+      "begin":1356,
+      "end": 1346
+    }
+  ],
+  "Kaṇva Dynasty":[
+    {
+      "ruler":"Vasudeva",
+      "duration": 9,
+      "begin":1346,
+      "end": 1337
+    },
+    {
+      "ruler":"Bhumimitra",
+      "duration": 14,
+      "begin":1337,
+      "end": 1323
+    },
+    {
+      "ruler":"Nārāyaṇa",
+      "duration": 12,
+      "begin":1323,
+      "end": 1311
+    },
+    {
+      "ruler":"Suśarman",
+      "duration": 10,
+      "begin":1311,
+      "end": 1301
+    }
+  ],
+  "Magadha Kings":[
+    {
+      "ruler":"Śiprata",
+      "duration": 26,
+      "begin":1301,
+      "end": 1275
+    },
+    {
+      "ruler":"The Father of Śreṇika or Bhambhasāra",
+      "duration": 25,
+      "begin":1275,
+      "end": 1250
+    },
+    {
+      "ruler":"Śreṇika or Bhambhasāra",
+      "duration": 39,
+      "begin":1250,
+      "end": 1211
+    },
+    {
+      "ruler":"Kuṇika",
+      "duration": 36,
+      "begin":1211,
+      "end": 1175
+    },
+    {
+      "ruler":"̄Udāyi",
+      "duration": 46,
+      "begin":1175,
+      "end": 1129
+    },
+    {
+      "ruler":"Nandarāja",
+      "duration": 19,
+      "begin":1129,
+      "end": 1110
+    },
+    {
+      "ruler":"̣Huvishka",
+      "duration": 52,
+      "begin":1110,
+      "end": 1058
+    },
+    {
+      "ruler":"Vasudeva",
+      "duration": 39,
+      "begin":1058,
+      "end": 1019
+    },
+    {
+      "ruler":"̄Bṛhaspatimitra",
+      "duration": 19,
+      "begin":1019,
+      "end": 1000
+    },
+    {
+      "ruler":"The Chandra or Nāga Kings",
+      "duration": 120,
+      "begin":1000,
+      "end": 880
+    },
+    {
+      "ruler":"̄The Later Śuṅgas",
+      "duration": 54,
+      "begin":880,
+      "end": 826
+    }
+  ],
+  "Śātavāhana Dynasty":[
+    {
+      "ruler":"Simuka or Simhaka",
+      "duration": 23,
+      "begin":826,
+      "end": 803
+    },
+    {
+      "ruler":"Krishna Śri Śātakarṇi or Kānha",
+      "duration": 18,
+      "begin":803,
+      "end": 785
+    },
+    {
+      "ruler":"Śri Malla Śātakarṇi",
+      "duration": 10,
+      "begin":785,
+      "end": 775
+    },
+    {
+      "ruler":"Purṇotsaṅga",
+      "duration": 18,
+      "begin":775,
+      "end": 757
+    },
+    {
+      "ruler":"̄Śri Śātakarṇi",
+      "duration": 56,
+      "begin":757,
+      "end": 701
+    },
+    {
+      "ruler":"̄Skandhastambhin",
+      "duration": 18,
+      "begin":701,
+      "end": 683
+    },
+    {
+      "ruler":"̣Lambodara",
+      "duration": 18,
+      "begin":683,
+      "end": 665
+    },
+    {
+      "ruler":"Apītaka or Apīlaka",
+      "duration": 12,
+      "begin":665,
+      "end": 653
+    },
+    {
+      "ruler":"̄Meghaswāti",
+      "duration": 18,
+      "begin":653,
+      "end": 635
+    },
+    {
+      "ruler":"Swāti",
+      "duration": 18,
+      "begin":635,
+      "end": 617
+    },
+    {
+      "ruler":"̄Skandasvati Śātakarṇi",
+      "duration": 7,
+      "begin":617,
+      "end": 610
+    },
+    {
+      "ruler":"Mṛgendra Śātakarṇi",
+      "duration": 11,
+      "begin":610,
+      "end": 599
+    },
+    {
+      "ruler":"Kuntala Śātakarṇi",
+      "duration": 8,
+      "begin":599,
+      "end": 591
+    },
+    {
+      "ruler":"Saumya Śātakarṇi",
+      "duration": 12,
+      "begin":591,
+      "end": 579
+    },
+    {
+      "ruler":"Śāta or Svativarṇa Śātakarṇi",
+      "duration": 1,
+      "begin":579,
+      "end": 578
+    },
+    {
+      "ruler":"̄Pulomān I",
+      "duration": 24,
+      "begin":578,
+      "end": 554
+    },
+    {
+      "ruler":"̄Megha Śātakarṇi",
+      "duration": 38,
+      "begin":554,
+      "end": 516
+    },
+    {
+      "ruler":"̣Ariṣtaparṇi Śātakarṇi",
+      "duration": 25,
+      "begin":516,
+      "end": 491
+    },
+    {
+      "ruler":"Hāla Śātavāhana",
+      "duration": 5,
+      "begin":491,
+      "end": 486
+    },
+    {
+      "ruler":"Mantalaka",
+      "duration": 5,
+      "begin":486,
+      "end": 481
+    },
+    {
+      "ruler":"Purīndrasena",
+      "duration": 12,
+      "begin":481,
+      "end": 469
+    },
+    {
+      "ruler":"̄Sundara Śātakarṇi",
+      "duration": 1,
+      "begin":469,
+      "end": 468
+    },
+    {
+      "ruler":"Chakora & Mahendra",
+      "duration": 1,
+      "begin":468,
+      "end": 467
+    },
+    {
+      "ruler":"Śivasvati Śātakarṇi",
+      "duration": 28,
+      "begin":467,
+      "end": 439
+    },
+    {
+      "ruler":"Gautamīputra Śātakarṇi",
+      "duration": 21,
+      "begin":439,
+      "end": 418
+    },
+    {
+      "ruler":"̄Pulomān II",
+      "duration": 28,
+      "begin":418,
+      "end": 390
+    },
+    {
+      "ruler":"̄Śivaśri Śātakarṇi",
+      "duration": 7,
+      "begin":390,
+      "end": 383
+    },
+    {
+      "ruler":"̣Śivask anda Śātakarṇi",
+      "duration": 7,
+      "begin":383,
+      "end": 376
+    },
+    {
+      "ruler":"Yajnaśri Śātakarṇi",
+      "duration": 19,
+      "begin":376,
+      "end": 357
+    },
+    {
+      "ruler":"Vijayaśri Śātakarṇi",
+      "duration": 6,
+      "begin":357,
+      "end": 351
+    },
+    {
+      "ruler":"Chandraśri Śātakarṇi",
+      "duration": 10,
+      "begin":351,
+      "end": 341
+    },
+    {
+      "ruler":"̄Pulomān III",
+      "duration": 7,
+      "begin":341,
+      "end": 334
+    }
+  ],
+  "Gupta Dynasty":[
+    {
+      "ruler":"Chandragupta I",
+      "duration": 4,
+      "begin":334,
+      "end": 330
+    },
+    {
+      "ruler":"Samudragupta",
+      "duration": 51,
+      "begin":330,
+      "end": 279
+    },
+    {
+      "ruler":"Rāmagupta",
+      "duration": 1,
+      "begin":279,
+      "end": 278
+    },
+    {
+      "ruler":"Chandragupta II",
+      "duration": 36,
+      "begin":277,
+      "end": 241
+    },
+    {
+      "ruler":"̄Kumāragupta I",
+      "duration": 42,
+      "begin":241,
+      "end": 199
+    },
+    {
+      "ruler":"Skandagupta",
+      "duration": 23,
+      "begin":199,
+      "end": 176
+    },
+    {
+      "ruler":"̣Narasiṁhagupta Bālāditya",
+      "duration": 40,
+      "begin":176,
+      "end": 136
+    },
+    {
+      "ruler":"Kumāragupta II and Viṣṇugupta",
+      "duration": 47,
+      "begin":136,
+      "end": 89
+    }
+  ]
+}

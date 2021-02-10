@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+.begin {
+  clip-path: url(#clip);
+}
+
+.end {
+  clip-path: url(#clip);
+}
+
+.connectors {
+  clip-path: url(#clip);
+}
+
+.labels {
+  clip-path: url(#clip);
+  font-size: 10px;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;	
+    padding: 3px;
+    width: auto; 
+    height: auto;
+    margin: 1px;
+    border: solid;
+    border-color: black; 		
+}
