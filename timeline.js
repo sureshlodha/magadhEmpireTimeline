@@ -22,14 +22,14 @@ var svg = d3.select("body").append("svg")
 
 var dynastyList = ["Bṛhadratha Dynasty", "Pradyota Dynasty", "Śiśunāga Dynasty",
                "Nanda Dynasty", "Maurya Dynasty", "Śuṅga Dynasty", "Kaṇva Dynasty",
-               "Magadha Kings", "Śātavāhana Dynasty", "Gupta Dynasty"];
+               "Magadha Kings", "Śātavāhana Dynasty", "Gupta Dynasty", "Iksvaku Dynasty"];
 
 var x = d3.scaleLinear().range([0, 1000]).domain([3500, 0]),
     x2 = d3.scaleLinear().range([0, 1000]).domain([3500, 0]),
     colorScale = d3.scaleOrdinal(d3.schemeCategory10).domain(dynastyList);
 
 var brush = d3.brushX()
-    .extent([[150, 180], [1150, 200]])
+    .extent([[150, 170], [1150, 200]])
     .on("start brush end", brushed);
 
 var timeAxis = d3.axisBottom(x),
@@ -57,23 +57,34 @@ d3.json("timelineData.json").then(function(dynasties){
   
   dynastyList.forEach(item => {
     dynasties[item].forEach(function(ruler){
+      var distance = 190;
+      var scaleDistance = 90;
+      
+      if(item == "Iksvaku Dynasty"){
+        distance = 180;
+        scaleDistance = 50;
+      } else {
+        distance = 190;
+        scaleDistance = 90;
+      }
+      
       var begin = svg.append("circle")
         .attr("cx", x2(ruler.begin)+150)
-        .attr("cy", 190)
+        .attr("cy", distance)
         .attr("r", 3.5)
         .style("fill", colorScale(item));
       
       var lines = svg.append("line")
         .attr("x1", x2(ruler.begin)+150)
-        .attr("y1", 190)
+        .attr("y1", distance)
         .attr("x2", x(ruler.end)+150)
-        .attr("y2", 190)
+        .attr("y2", distance)
         .style("stroke-width", "1")
         .style("stroke", colorScale(item));
       
       var end = svg.append("circle")
         .attr("cx", x2(ruler.end)+150)
-        .attr("cy", 190)
+        .attr("cy", distance)
         .attr("r", 3.5)
         .style("fill", colorScale(item));
       
@@ -81,7 +92,7 @@ d3.json("timelineData.json").then(function(dynasties){
         .attr("class", "begin")
         .attr("begin", ruler.begin)
         .attr("cx", x(ruler.begin)+150)
-        .attr("cy", 90)
+        .attr("cy", scaleDistance)
         .attr("r", 5)
         .style("fill", colorScale(item))
         .on("mouseover", function(d) {
@@ -102,9 +113,9 @@ d3.json("timelineData.json").then(function(dynasties){
         .attr("begin", ruler.begin)
         .attr("end", ruler.end)
         .attr("x1", x(ruler.begin)+150)
-        .attr("y1", 90)
+        .attr("y1", scaleDistance)
         .attr("x2", x(ruler.end)+150)
-        .attr("y2", 90)
+        .attr("y2", scaleDistance)
         .style("stroke-width", "3")
         .style("stroke", colorScale(item))
         .on("mouseover", function(d) {
@@ -129,7 +140,7 @@ d3.json("timelineData.json").then(function(dynasties){
         .attr("class", "end")
         .attr("end", ruler.end)
         .attr("cx", x(ruler.end)+150)
-        .attr("cy", 90)
+        .attr("cy", scaleDistance)
         .attr("r", 5)
         .style("fill", colorScale(item))
         .on("mouseover", function(d) {

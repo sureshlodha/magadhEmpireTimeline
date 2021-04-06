@@ -702,5 +702,223 @@
       "begin":136,
       "end": 89
     }
+  ],
+  "Iksvaku Dynasty":[
+    {
+      "ruler":"Bṛhatkśaya",
+      "duration": 62,
+      "begin":3162,
+      "end": 3100
+    },
+    {
+      "ruler":"Urukriya",
+      "duration": 50,
+      "begin":3100,
+      "end": 3050
+    },
+    {
+      "ruler":"Vatsavyūha",
+      "duration": 50,
+      "begin":3050,
+      "end": 3000
+    },
+    {
+      "ruler":"Prativyoma",
+      "duration": 50,
+      "begin":3000,
+      "end": 2950
+    },
+    {
+      "ruler":"̄Bhānu",
+      "duration": 50,
+      "begin":2950,
+      "end": 2900
+    },
+    {
+      "ruler":"Divākara",
+      "duration": 50,
+      "begin":2900,
+      "end": 2850
+    },
+    {
+      "ruler":"̣Sahadeva",
+      "duration": 40,
+      "begin":2850,
+      "end": 2810
+    },
+    {
+      "ruler":"Bṛhadaśva",
+      "duration": 40,
+      "begin":2810,
+      "end": 2770
+    },
+    {
+      "ruler":"Bhānuratha",
+      "duration": 50,
+      "begin":2770,
+      "end": 2720
+    },
+    {
+      "ruler":"Pratitasya",
+      "duration": 40,
+      "begin":2720,
+      "end": 2680
+    },
+    {
+      "ruler":"Supratika",
+      "duration": 30,
+      "begin":2680,
+      "end": 2650
+    },
+    {
+      "ruler":"Marudeva",
+      "duration": 40,
+      "begin":2650,
+      "end": 2610
+    },
+    {
+      "ruler":"̄Śunakśatra",
+      "duration": 40,
+      "begin":2610,
+      "end": 2570
+    },
+    {
+      "ruler":"Puṣkara or Kinnara",
+      "duration": 40,
+      "begin":2570,
+      "end": 2530
+    },
+    {
+      "ruler":"̣Antarikśa",
+      "duration": 40,
+      "begin":2530,
+      "end": 2490
+    },
+    {
+      "ruler":"Suvarṇa",
+      "duration": 40,
+      "begin":2490,
+      "end": 2450
+    },
+    {
+      "ruler":"Sumitra or Amitrajit",
+      "duration": 40,
+      "begin":2450,
+      "end": 2410
+    },
+    {
+      "ruler":"Bṛhatrāja",
+      "duration": 40,
+      "begin":2410,
+      "end": 2370
+    },
+    {
+      "ruler":"Barhi",
+      "duration": 40,
+      "begin":2370,
+      "end": 2330
+    },
+    {
+      "ruler":"Kṛtañjaya",
+      "duration": 40,
+      "begin":2330,
+      "end": 2290
+    },
+    {
+      "ruler":"̄Raṇañjaya",
+      "duration": 50,
+      "begin":2290,
+      "end": 2240
+    },
+    {
+      "ruler":"Sañjaya",
+      "duration": 40,
+      "begin":2240,
+      "end": 2200
+    },
+    {
+      "ruler":"̣Śākya",
+      "duration": 50,
+      "begin":2200,
+      "end": 2150
+    },
+    {
+      "ruler":"Okkamukha or Ulkāmukha",
+      "duration": 30,
+      "begin":2150,
+      "end": 2120
+    },
+    {
+      "ruler":"Sivisamjaya",
+      "duration": 40,
+      "begin":2120,
+      "end": 2080
+    },
+    {
+      "ruler":"Sihassara",
+      "duration": 40,
+      "begin":2080,
+      "end": 2040
+    },
+    {
+      "ruler":"Jayasena",
+      "duration": 40,
+      "begin":2040,
+      "end": 2000
+    },
+    {
+      "ruler":"Simhahanu",
+      "duration": 50,
+      "begin":2000,
+      "end": 1950
+    },
+    {
+      "ruler":"̄Śuddhodana",
+      "duration": 50,
+      "begin":1950,
+      "end": 1900
+    },
+    {
+      "ruler":"Siddhartha",
+      "duration": 5,
+      "begin":1920,
+      "end": 1915
+    },
+    {
+      "ruler":"̣Rāhula",
+      "duration": 50,
+      "begin":1900,
+      "end": 1850
+    },
+    {
+      "ruler":"Prasenajit",
+      "duration": 30,
+      "begin":1850,
+      "end": 1820
+    },
+    {
+      "ruler":"Kśudraka",
+      "duration": 40,
+      "begin":1820,
+      "end": 1780
+    },
+    {
+      "ruler":"̄Ranaka",
+      "duration": 40,
+      "begin":1780,
+      "end": 1740
+    },
+    {
+      "ruler":"Suratha",
+      "duration": 40,
+      "begin":1740,
+      "end": 1700
+    },
+    {
+      "ruler":"̣Sumitra",
+      "duration": 36,
+      "begin":1700,
+      "end": 1664
+    }
   ]
 }
